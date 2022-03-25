@@ -1,4 +1,4 @@
-# Python_Tutorials
+# intro_to_python_tutorials
 
 Copyright (c) 2021, programmingwithalex
 
