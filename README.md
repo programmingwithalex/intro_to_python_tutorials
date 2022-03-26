@@ -1,6 +1,6 @@
 # intro_to_python_tutorials
 
-Copyright (c) 2021, programmingwithalex
+Copyright (c) 2021, https://github.com/programmingwithalex
 
 Jupyter notebooks and other content related to Python tutorial series on Youtube.
 
